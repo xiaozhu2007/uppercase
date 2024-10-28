@@ -1,0 +1,34 @@
+{
+  "name": "@xiaozhu2007/uppercase",
+  "version": "1.0.0",
+  "description": "A Node.js module to convert strings to uppercase and provide related utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm publish --access public",
+    "bump:patch": "npm version patch",
+    "bump:minor": "npm version minor",
+    "bump:major": "npm version major"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaozhu2007/uppercase.git"
+  },
+  "keywords": [
+    "uppercase",
+    "string",
+    "convert",
+    "title case",
+    "check"
+  ],
+  "author": "xiaozhu2007",
+  "contributors": [
+    "WolfYangFan <admin@993686.xyz> (https://github.com/WolfYangFan)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaozhu2007/uppercase/issues"
+  },
+  "homepage": "https://github.com/xiaozhu2007/uppercase#readme"
+}
