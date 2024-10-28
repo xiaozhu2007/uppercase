@@ -1,7 +1,42 @@
-# @xiaozhu2007/uppercase
+![bing-indexnow](https://socialify.git.ci/xiaozhu2007/uppercase/image?description=1&font=Jost&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Auto)
 
-[![NPM Version](https://img.shields.io/npm/v/@xiaozhu2007/uppercase.svg)](https://www.npmjs.com/package/@xiaozhu2007/uppercase)
-[![License](https://img.shields.io/npm/l/@xiaozhu2007/uppercase.svg)](https://github.com/xiaozhu2007/uppercase/blob/master/LICENSE)
+<p align="center">
+  <img
+    src="https://img.shields.io/github/last-commit/xiaozhu2007/uppercase.svg?style=for-the-badge"
+  />
+  <img
+    src="https://img.shields.io/github/issues-pr-closed/xiaozhu2007/uppercase.svg?style=for-the-badge"
+  />
+  <img
+    src="https://img.shields.io/github/commit-activity/w/xiaozhu2007/uppercase?style=for-the-badge"
+  />
+  <br />
+  <img
+    src="https://img.shields.io/github/languages/code-size/xiaozhu2007/uppercase.svg?style=for-the-badge"
+  />
+  <img
+    src="https://img.shields.io/github/repo-size/xiaozhu2007/uppercase?style=for-the-badge"
+  />
+  <img
+    src="https://img.shields.io/github/languages/count/xiaozhu2007/uppercase?style=for-the-badge"
+  />
+  <img
+    src="https://img.shields.io/github/languages/top/xiaozhu2007/uppercase?style=for-the-badge"
+  />
+  <img
+    src="https://img.shields.io/github/issues/xiaozhu2007/uppercase?style=for-the-badge"
+  />
+  <img
+    src="https://img.shields.io/github/issues-closed-raw/xiaozhu2007/uppercase?style=for-the-badge"
+  />
+  <img
+    src="https://img.shields.io/npm/v/%40xiaozhu2007%2Fuppercase?style=for-the-badge"
+  />
+  <br />
+  ⭐️ Your Star is very important for me!
+</p>
+
+# @xiaozhu2007/uppercase
 
 A Node.js module to convert strings to uppercase and provide related utilities.
 
